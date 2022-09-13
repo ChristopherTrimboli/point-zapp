@@ -1,0 +1,8 @@
+{
+    "version": 0.1,
+    "target": "C_J_F_T.point",
+    "keyvalue": {},
+    "contracts": [],
+    "upgradable": false,
+    "rootDir": "public"
+}
